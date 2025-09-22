@@ -98,7 +98,7 @@ void add_history(const char *entry) {
 void draw_hud(const char *mode, const char *msg) {
     clear_screen();
     printf("%s+------------------------------------------------------------+%s\n", CLR_HEADER, CLR_RESET);
-    printf("%s|%s                  Advanced Console Calculator           %s|\n", CLR_HEADER, CLR_RESET, CLR_HEADER);
+    printf("%s|%s                   Console Calculator                     %s|\n", CLR_HEADER, CLR_RESET, CLR_HEADER);
     printf("%s+------------------------------------------------------------+%s\n\n", CLR_HEADER, CLR_RESET);
 
     // Mode and memory
