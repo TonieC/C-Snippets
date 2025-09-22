@@ -5,7 +5,7 @@
 // License: Public Domain
 // Note: This code uses C17 standard
 // Note: This code is designed for Windows console
-//      but may work on other platforms with minor adjustments.
+// but may work on other platforms with minor adjustments.
 // Features:
 // - Basic arithmetic: + - * /
 // - Scientific functions: sin, cos, tan, exp, log, sqrt, pow
