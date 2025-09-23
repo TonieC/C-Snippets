@@ -1,7 +1,5 @@
 # C Snippets
 
-A collection of C code snippets for learning and practice — intended to help classmates explore C concepts, try out syntax, and see how different parts of C work through small examples.
-
 ---
 
 ## 🎯 Purpose
