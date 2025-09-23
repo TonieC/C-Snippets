@@ -4,8 +4,6 @@
 
 ## 🎯 Purpose
 
-This repo is meant for classmates (and anyone else) to:
-
 - Learn basic and intermediate C features by reading / running short examples  
 - See how common operations are implemented (loops, conditionals, functions, arrays, pointers, etc.)  
 - Use snippets as a reference or starting point for their own code  
