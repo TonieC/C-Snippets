@@ -1,0 +1,66 @@
+MIT License (Extended Version with Explanatory Notes)
+
+Copyright (c) 2025 Tonie
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and any associated documentation files (collectively referred
+to as the "Software"), to deal in the Software without restriction. This means
+the following rights are explicitly granted to all recipients:
+
+- The right to use the Software for any purpose, including commercial use,
+  personal projects, educational purposes, or research.
+- The right to copy and distribute the Software in its original form or with
+  modifications.
+- The right to modify the Software, adapt it to specific needs, or merge it
+  with other projects.
+- The right to publish the Software (either as-is or modified) and to
+  sublicense it, allowing others to also enjoy the same freedoms.
+- The right to sell copies of the Software as part of a larger system, bundle,
+  or standalone product.
+
+These rights are granted free of charge, with no fees or royalties owed to the
+original author or contributors, provided that the following conditions are met:
+
+CONDITION OF USE:
+-----------------
+The above copyright notice and this permission notice (the MIT License text)
+shall be included in all copies or substantial portions of the Software.
+This ensures that future users of the Software are aware of their rights,
+responsibilities, and the original source of the work.
+
+DISCLAIMER OF WARRANTY:
+-----------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. This includes, but is not limited to, warranties of:
+
+- MERCHANTABILITY: No guarantee that the Software is fit for sale or trade.
+- FITNESS FOR A PARTICULAR PURPOSE: No guarantee that the Software will work
+  for your specific application, requirements, or environment.
+- NON-INFRINGEMENT: No guarantee that the Software does not violate the rights
+  (including intellectual property rights) of others.
+
+By using this Software, you accept that it may contain errors, bugs, or
+unexpected behavior, and that it may not function as intended in all situations.
+
+LIMITATION OF LIABILITY:
+------------------------
+In NO EVENT shall the author(s) or copyright holder(s) be liable for any claim,
+damages, or other liability. This includes but is not limited to:
+
+- Direct damages (such as data loss or hardware damage caused by using the Software).
+- Indirect damages (such as lost profits, business interruption, or loss of
+  business information).
+- Incidental, special, or consequential damages arising from the use of, or
+  inability to use, the Software.
+
+This limitation applies whether the claim is in contract, tort (including
+negligence), or otherwise, even if the author(s) have been advised of the
+possibility of such damages.
+
+FINAL NOTE:
+-----------
+This license is meant to maximize freedom for developers and users. You may
+do almost anything with the Software, but you must always include the license
+text so that future users are aware of these freedoms and limitations.
+
+End of License Text
